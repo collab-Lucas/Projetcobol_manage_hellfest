@@ -3,7 +3,7 @@
 
 ## 📌 Présentation
 
-Ce projet a été réalisé dans le cadre d’un travail de groupe en formation.  
+Ce projet a été réalisé dans le cadre d’un travail de groupe  en formation lors de la Licence 3 Miage .  
 Il s'agit d'un système de gestion d’événements inspiré du festival **Hellfest**, développé en **COBOL**.  
 L’application permet la gestion des utilisateurs, des concerts et des scènes.
 
@@ -34,10 +34,9 @@ Projet réalisé en groupe (Groupe 10), dans le cadre d'un projet pédagogique e
 
 ```bash
 cobc -x -o hellfest groupe_10_hellfest.cob
-Exécution
-bash
-Copier
-Modifier
+
+
+### Exécution
 ./hellfest
 Assurez-vous que les fichiers .dat soient dans le même répertoire que l’exécutable.
 
@@ -45,3 +44,7 @@ Assurez-vous que les fichiers .dat soient dans le même répertoire que l’exé
 Ce projet est purement académique et n’a pas vocation à être utilisé en production.
 
 Le style et l’organisation sont pensés pour un exercice d’apprentissage du COBOL.
+
+
+
+groupe 10 (Lucas, Alex, Clément)
